@@ -29,10 +29,10 @@ INSTALLED_APPS = [
     #local apps
         'apps.core',
         'apps.accounts',
-        'apps.catalog',
-        'apps.orders',
-        'apps.reviews',
-        'apps.notifications',
+        # 'apps.catalog',
+        # 'apps.orders',
+        # 'apps.reviews',
+        # 'apps.notifications',
 
 ]
 
